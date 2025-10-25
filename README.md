@@ -2,9 +2,8 @@
 <h3 align="center">Good and enthusiast student</h3>
 
 - ### 💻 About Me
-- 🌱 📚 I’m currently learning **[Electronics and Telecommunication Engineering.]**
-- 🌟 Passionate about **[Core Domain is Electronics and Telecommunication Engineering]**  
-- 🎓 Currently learning **[Your Current Focus — e.g., React, TensorFlow, Rust]**  
+- 🌟 Passionate about **[Core Domain: VLSI/Embedded Systems]**  
+- 🎓 Currently learning **[Electronics and Telecommunication Engineering.]**  
 - 💡 Interested in **[Game Development and ML Engineering]**  
 - 📫 Reach me at: **[sameepdmakwana@gmail.com <br> sameep.m8322@gmail.com]**
 - ⚡ Hobbies.. **[Playing chess.]**
