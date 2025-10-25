@@ -2,7 +2,7 @@
 <h3 align="center">Good and enthusiast student</h3>
 
 - ### 💻 About Me
-- 🌟 Passionate about **[Core Domain: VLSI/Embedded Systems]**  
+- 🌟 Passionate about **[Core Domain: Needs to be decided from these two: VLSI/Embedded Systems as I am FY.]**  
 - 🎓 Currently learning **[Electronics and Telecommunication Engineering.]**  
 - 💡 Interested in **[Game Development and ML Engineering]**  
 - 📫 Reach me at: **[sameepdmakwana@gmail.com] or [sameep.m8322@gmail.com]**
