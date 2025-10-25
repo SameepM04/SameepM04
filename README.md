@@ -7,7 +7,7 @@
 - 🎓 Currently learning **[Your Current Focus — e.g., React, TensorFlow, Rust]**  
 - 💡 Interested in **[Game Development and ML Engineering]**  
 - 📫 Reach me at: **[sameepdmakwana@gmail.com <br> sameep.m8322@gmail.com]**
--  ⚡ Hobbies.. **[Playing chess.]**
+- ⚡ Hobbies.. **[Playing chess.]**
 
 ---
 
@@ -17,16 +17,6 @@
 🛠️ **Tools:** [VS Code]  
 📊 **Databases:** [MySQL]  
 🌐 **Cloud / DevOps:** []  
-
----
-
-#### 💾 Programming Languages  
-<p align="left">
-  <img src="https://icon2.cleanpng.com/20171220/dgw/avjtuobc3.webp" alt="C" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-</p>
 
 ---
 
