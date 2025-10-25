@@ -22,7 +22,7 @@
 
 #### 💾 Programming Languages  
 <p align="left">
-  <img src="cleanpng.com/free/c-and-c-programming-logo.html" alt="C" width="50" height="50"/>
+  <img src="https://icon2.cleanpng.com/20171220/dgw/avjtuobc3.webp" alt="C" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
