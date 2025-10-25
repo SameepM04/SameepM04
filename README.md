@@ -5,7 +5,7 @@
 - 🌟 Passionate about **[Core Domain: VLSI/Embedded Systems]**  
 - 🎓 Currently learning **[Electronics and Telecommunication Engineering.]**  
 - 💡 Interested in **[Game Development and ML Engineering]**  
-- 📫 Reach me at: **[sameepdmakwana@gmail.com <br> sameep.m8322@gmail.com]**
+- 📫 Reach me at: **[sameepdmakwana@gmail.com <br>]         [sameep.m8322@gmail.com]**
 - ⚡ Hobbies.. **[Playing chess.]**
 
 ---
