@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sameep.m8322@gmail.com**
 
-- ⚡ Hobbies.. **Playing chess(Class E: (ELO) 1103).**
+- ⚡ Hobbies.. **Playing chess.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
