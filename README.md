@@ -9,10 +9,6 @@
 - 📫 Reach me at: **[sameepdmakwana@gmail.com <br> sameep.m8322@gmail.com]**
 -  ⚡ Hobbies.. **[Playing chess.]**
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www3.rcherz.com/languages/c-language-logo.html/" target="_blank" rel="noreferrer"> <img src="[https://i2.wp.com/www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png]" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
 ---
 
 ### ⚙️ Tech Stack  
@@ -24,10 +20,13 @@
 
 ---
 
-### 📈 GitHub Stats  
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=tokyonight)  
+#### 💾 Programming Languages  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+</p>
 
 ---
 
