@@ -20,7 +20,7 @@
 ---
 
 ### 🏆 Achievements & Projects  
-- 🥇 **[Date Calculator]** — [Calculating difference and summation along with age]  
+- 🥇 **[Date Calculator]** — [Calculating difference and summation of dates along with age calculation]  
 
 ---
 
