@@ -10,7 +10,7 @@
 
 ---
 
-### ⚙️ Tech Stack  
+### ⚙️ Tech Skills  
 💾 **Languages:** [C, C++, Python] <br>
 📊 **Databases:** [MySQL] 
 
