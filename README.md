@@ -11,11 +11,31 @@
 ---
 
 ### ⚙️ Tech Stack  
-💾 **Languages:** [C, C++, Python]  
+💾 **Languages:** [C, C++, Python]
+📊 **Databases:** [MySQL] 
+
+![C](https://img.shields.io/badge/C-darkblue?style=for-the-badge&logo=C)
+![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=rgb(255%2C255%2C255))
+![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)
+![MySQL](https://img.shields.io/badge/mysql-pink?style=for-the-badge&logo=mysql)
+
 🧩 **Frameworks:** []  
-🛠️ **Tools:** [VS Code]  
-📊 **Databases:** [MySQL]  
-🌐 **Cloud / DevOps:** []  
+🛠️ **Tools:** [VS Code, Jupyter] 
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/><br/>
+      VS Code
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="JupyterNotebook" alt="JupyterNotebook" width="40" height="40"/><br/>
+      Jupyter
+    </td>
+  </tr>
+</table>
+
+🌐 **Cloud / DevOps:** []
 
 ---
 
