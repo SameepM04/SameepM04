@@ -11,7 +11,7 @@
 ---
 
 ### ⚙️ Tech Stack  
-💾 **Languages:** [C, C++, Python]
+💾 **Languages:** [C, C++, Python] <br>
 📊 **Databases:** [MySQL] 
 
 ![C](https://img.shields.io/badge/C-darkblue?style=for-the-badge&logo=C)
