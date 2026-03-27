@@ -11,13 +11,14 @@
 ---
 
 ### ⚙️ Tech Skills  
-💾 **Languages:** [C, C++, Python] 
+💾 **Languages:** [C, C++, Python] <br>
 ![C](https://img.shields.io/badge/C-darkblue?style=for-the-badge&logo=C)
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=rgb(255%2C255%2C255))
 ![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)
 
 <br>
 📊 **Databases:** [MySQL] 
+<br>
 ![MySQL](https://img.shields.io/badge/mysql-pink?style=for-the-badge&logo=mysql)
 
 🧩 **Frameworks:** []  
