@@ -17,8 +17,8 @@
 ![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)
 
 <br>
-📊 **Databases:** [MySQL] 
-<br>
+📊 **Databases:** [MySQL] <br>
+
 ![MySQL](https://img.shields.io/badge/mysql-pink?style=for-the-badge&logo=mysql)
 
 🧩 **Frameworks:** []  
